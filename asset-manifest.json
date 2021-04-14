@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robodriends/static/css/main.1b69fe29.chunk.css",
+    "main.js": "/robodriends/static/js/main.1ec214ab.chunk.js",
+    "main.js.map": "/robodriends/static/js/main.1ec214ab.chunk.js.map",
+    "runtime-main.js": "/robodriends/static/js/runtime-main.da82822c.js",
+    "runtime-main.js.map": "/robodriends/static/js/runtime-main.da82822c.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robodriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js": "/robodriends/static/js/2.df928947.chunk.js",
+    "static/js/2.df928947.chunk.js.map": "/robodriends/static/js/2.df928947.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/robodriends/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/robodriends/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/robodriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robodriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.1b69fe29.chunk.css.map": "/robodriends/static/css/main.1b69fe29.chunk.css.map",
+    "static/js/2.df928947.chunk.js.LICENSE.txt": "/robodriends/static/js/2.df928947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robodriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da82822c.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js",
+    "static/css/main.1b69fe29.chunk.css",
+    "static/js/main.1ec214ab.chunk.js"
+  ]
+}
